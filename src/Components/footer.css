@@ -1,0 +1,28 @@
+.footerContainer{
+    position: absolute;
+    bottom: 20px;
+    right: 37%;
+}
+.social-media{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.social-icon{
+    height: 46px;
+    width: 46px;
+    border: 1px solid #fff;
+    margin: 0 0.45rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #fff;
+    font-size: 2rem;
+    border-radius: 50%;
+    transition: all 0.5s;
+}
+.social-icon:hover{
+    color: #c1c1f5;
+    border-color: #aaa;
+}

@@ -1,0 +1,10 @@
+.headerContainer{
+    position:absolute;
+    top: 70px;
+    right: 0;
+}
+.tradeMarkImg{
+    transform: rotate(270deg);
+    width: 250px;
+    height: 125px;
+}
